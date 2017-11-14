@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/player.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/field_scene.unity
+  isLoaded: 1
+  isActive: 0
